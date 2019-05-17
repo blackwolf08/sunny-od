@@ -1,14 +1,9 @@
 # Real-Time-Object-Detection-using-Tensorflow.js
 
 
-<p align= "center">
-  <img width="750" height="400" src="https://github.com/mossydidar/Real-Time-Object-Detection-using-Tensorflow.js/blob/master/1.png">
-</p>
-
-
 
 ## Real Time Demonstration:
-* [Click Here for Real Time Demo](https://jlo24226ww.codesandbox.io/)
+* [Click Here for Real Time Demo](https://sunny-od.netlify.com/)
 
   
   * Note: Loading the model can take several seconds.
@@ -115,6 +110,4 @@ function detectFrame() {
 }
 ``` 
   
-## Acknowledgement:
- * Nick Bourdakos
 
